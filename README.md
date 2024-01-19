@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lingjie Li</h1>
-<h3 align="center">A passionate Computing Science student in Simon Fraser University Canada</h3>
+<h3 align="center">A passionate Computing Science student in Simon Fraser University (Canada)</h3>
 
 - 📫 How to reach me **lilingjie0913@gmail.com**
 
