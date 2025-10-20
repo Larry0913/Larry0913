@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lingjie Li</h1>
+<h1 align="center">Hi 👋, I'm Larry Li</h1>
 <h3 align="center">A passionate Master of Computing Science in Big Data student in Simon Fraser University (Canada)</h3>
-
-- 📫 How to reach me **lilingjie0913@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
